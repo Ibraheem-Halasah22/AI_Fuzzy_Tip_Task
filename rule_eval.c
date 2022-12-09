@@ -1,4 +1,12 @@
-//
-// Created by hp on 12/9/2022.
-//
 
+#include <math.h>
+
+float cheap_rule(float poor, float rancid){
+    return fmax(poor, rancid);
+}
+float avg_rule(float good){
+    return good;
+}
+float generous_rule(float excellent, float delicious){
+    return fmax(excellent, delicious);
+}
