@@ -15,3 +15,10 @@
 12	124	6923306316653677	CMakeFiles/untitled1.dir/fuzzification_phase.c.obj	f09a101584de9f8a
 3	131	6923306316733461	CMakeFiles/untitled1.dir/main.c.obj	cf152c1224512b71
 132	294	6923306318294709	untitled1.exe	1bbbbfdab93c079b
+7	279	6923311622493034	CMakeFiles/untitled1.dir/rule_eval.c.obj	3ed81aaf4168219d
+33	294	6923311622670685	CMakeFiles/untitled1.dir/tip_fuzzy_system.c.obj	c95d69a4a3f62153
+21	317	6923311622930412	CMakeFiles/untitled1.dir/main.c.obj	cf152c1224512b71
+15	145	6923312121510130	CMakeFiles/untitled1.dir/aggregation_and_defuzz.c.obj	6bcb3ac128d2c4e
+24	153	6923312121586797	CMakeFiles/untitled1.dir/tip_fuzzy_system.c.obj	c95d69a4a3f62153
+5	155	6923312121619193	CMakeFiles/untitled1.dir/main.c.obj	cf152c1224512b71
+156	287	6923312122873933	untitled1.exe	1bbbbfdab93c079b

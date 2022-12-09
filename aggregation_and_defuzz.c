@@ -1,3 +1,4 @@
+#include "aggregation_and_defuzz.h"
 #define CHEAP_K 5
 #define AVG_K 15
 #define GENEROUS_K 25
