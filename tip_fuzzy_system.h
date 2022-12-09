@@ -1,0 +1,5 @@
+
+#ifndef UNTITLED1_TIP_FUZZY_SYSTEM_H
+#define UNTITLED1_TIP_FUZZY_SYSTEM_H
+
+#endif

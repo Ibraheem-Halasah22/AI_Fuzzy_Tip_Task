@@ -1,5 +1,5 @@
 
-#include <math.h>
+#include "rule_eval.h"
 
 float cheap_rule(float poor, float rancid){
     return fmax(poor, rancid);

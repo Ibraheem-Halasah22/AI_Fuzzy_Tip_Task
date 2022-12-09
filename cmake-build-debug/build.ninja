@@ -67,14 +67,8 @@ build CMakeFiles/untitled1.dir/rule_eval.c.obj: C_COMPILER__untitled1_Debug C$:/
   OBJECT_DIR = CMakeFiles\untitled1.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
 
-build CMakeFiles/untitled1.dir/aggregation.c.obj: C_COMPILER__untitled1_Debug C$:/Users/hp/Desktop/AI_Fuzzy_Tip_Task/aggregation.c || cmake_object_order_depends_target_untitled1
-  DEP_FILE = CMakeFiles\untitled1.dir\aggregation.c.obj.d
-  FLAGS = -g -std=gnu99
-  OBJECT_DIR = CMakeFiles\untitled1.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
-
-build CMakeFiles/untitled1.dir/defuzzification.c.obj: C_COMPILER__untitled1_Debug C$:/Users/hp/Desktop/AI_Fuzzy_Tip_Task/defuzzification.c || cmake_object_order_depends_target_untitled1
-  DEP_FILE = CMakeFiles\untitled1.dir\defuzzification.c.obj.d
+build CMakeFiles/untitled1.dir/aggregation_and_defuzz.c.obj: C_COMPILER__untitled1_Debug C$:/Users/hp/Desktop/AI_Fuzzy_Tip_Task/aggregation_and_defuzz.c || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\aggregation_and_defuzz.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\untitled1.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
@@ -93,7 +87,7 @@ build CMakeFiles/untitled1.dir/tip_fuzzy_system.c.obj: C_COMPILER__untitled1_Deb
 #############################################
 # Link the executable untitled1.exe
 
-build untitled1.exe: C_EXECUTABLE_LINKER__untitled1_Debug CMakeFiles/untitled1.dir/main.c.obj CMakeFiles/untitled1.dir/fuzzification_phase.c.obj CMakeFiles/untitled1.dir/rule_eval.c.obj CMakeFiles/untitled1.dir/aggregation.c.obj CMakeFiles/untitled1.dir/defuzzification.c.obj CMakeFiles/untitled1.dir/tip_fuzzy_system.c.obj
+build untitled1.exe: C_EXECUTABLE_LINKER__untitled1_Debug CMakeFiles/untitled1.dir/main.c.obj CMakeFiles/untitled1.dir/fuzzification_phase.c.obj CMakeFiles/untitled1.dir/rule_eval.c.obj CMakeFiles/untitled1.dir/aggregation_and_defuzz.c.obj CMakeFiles/untitled1.dir/tip_fuzzy_system.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled1.dir

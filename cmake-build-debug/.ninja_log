@@ -1,13 +1,17 @@
 # ninja log v5
-5	225	6923251879250852	build.ninja	95422757da516bed
-3	69	6923190976454631	CMakeFiles/untitled1.dir/fuzzy_tip_system.c.obj	7126e4a52f8270bd
-0	104	6923190976817459	CMakeFiles/untitled1.dir/main.c.obj	cf152c1224512b71
-105	399	6923190979574659	untitled1.exe	c5c1d0d3a7b43f99
-7	210	6923267815775150	CMakeFiles/untitled1.dir/rule_eval.c.obj	3ed81aaf4168219d
-44	216	6923267815854926	CMakeFiles/untitled1.dir/defuzzification.c.obj	2a7f7148a258527c
+5	225	6923306314341600	build.ninja	95422757da516bed
 57	220	6923267815894825	CMakeFiles/untitled1.dir/aggregation.c.obj	ad4c20fcf60b59ec
-72	221	6923267815914769	CMakeFiles/untitled1.dir/tip_fuzzy_system.c.obj	c95d69a4a3f62153
-31	257	6923267816274171	CMakeFiles/untitled1.dir/fuzzification_phase.c.obj	f09a101584de9f8a
-21	261	6923267816314071	CMakeFiles/untitled1.dir/main.c.obj	cf152c1224512b71
-3	78	6923267976358409	CMakeFiles/untitled1.dir/fuzzification_phase.c.obj	f09a101584de9f8a
+44	216	6923267815854926	CMakeFiles/untitled1.dir/defuzzification.c.obj	2a7f7148a258527c
+3	69	6923190976454631	CMakeFiles/untitled1.dir/fuzzy_tip_system.c.obj	7126e4a52f8270bd
 78	214	6923267977694845	untitled1.exe	4b6dcde1f1c7a49
+72	221	6923267815914769	CMakeFiles/untitled1.dir/tip_fuzzy_system.c.obj	c95d69a4a3f62153
+21	261	6923267816314071	CMakeFiles/untitled1.dir/main.c.obj	cf152c1224512b71
+7	210	6923267815775150	CMakeFiles/untitled1.dir/rule_eval.c.obj	3ed81aaf4168219d
+3	78	6923267976358409	CMakeFiles/untitled1.dir/fuzzification_phase.c.obj	f09a101584de9f8a
+1	223	6923306314341600	build.ninja	95422757da516bed
+7	103	6923306316405502	CMakeFiles/untitled1.dir/aggregation_and_defuzz.c.obj	6bcb3ac128d2c4e
+22	106	6923306316424296	CMakeFiles/untitled1.dir/tip_fuzzy_system.c.obj	c95d69a4a3f62153
+17	120	6923306316604103	CMakeFiles/untitled1.dir/rule_eval.c.obj	3ed81aaf4168219d
+12	124	6923306316653677	CMakeFiles/untitled1.dir/fuzzification_phase.c.obj	f09a101584de9f8a
+3	131	6923306316733461	CMakeFiles/untitled1.dir/main.c.obj	cf152c1224512b71
+132	294	6923306318294709	untitled1.exe	1bbbbfdab93c079b
